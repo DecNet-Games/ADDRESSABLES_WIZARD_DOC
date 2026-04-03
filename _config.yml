@@ -1,8 +1,17 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
-theme: just-the-docs
+title: Addressables Wizard
+description: The ultimate professional suite for Unity Addressables management.
+remote_theme: just-the-docs/just-the-docs
 
-url: https://just-the-docs.github.io
+# URL Settings
+url: "https://decnet-games.github.io"
+baseurl: "/ADDRESSABLES_WIZARD_DOC"
 
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+# Navigation Settings
+nav_config:
+  fixed_nav: true
+
+# Footer Settings
+footer_content: "© 2026 DecNet. Professional Unity Assets."
+
+# Color Scheme
+color_scheme: dark
